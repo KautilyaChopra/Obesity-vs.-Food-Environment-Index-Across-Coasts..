@@ -1,0 +1,315 @@
+State,County,Adult obesity,Food environment index
+CA,Alameda County,0.207,7.775
+CA,Alameda County,0.205,7.6
+CA,Amador County,0.23,8.073
+CA,Amador County,0.248,7.7
+CA,Butte County,0.243,6.755
+CA,Butte County,0.244,6.4
+CA,Calaveras County,0.258,8.038
+CA,Calaveras County,0.243,7.7
+CA,Colusa County,0.226,6.946
+CA,Colusa County,0.223,7.0
+CA,Contra Costa County,0.237,8.139
+CA,Contra Costa County,0.224,8.0
+CA,Del Norte County,0.255,6.405
+CA,Del Norte County,0.255,6.0
+CA,El Dorado County,0.203,8.067
+CA,El Dorado County,0.21,7.9
+CA,Fresno County,0.294,6.46
+CA,Fresno County,0.285,6.5
+CA,Glenn County,0.268,7.01
+CA,Glenn County,0.259,6.9
+CA,Humboldt County,0.265,7.088
+CA,Humboldt County,0.257,6.5
+CA,Imperial County,0.235,4.796
+CA,Imperial County,0.221,5.3
+CA,Inyo County,0.238,7.284
+CA,Inyo County,0.228,6.9
+CA,Kern County,0.278,6.843
+CA,Kern County,0.28,6.9
+CA,Kings County,0.242,6.62
+CA,Kings County,0.237,6.5
+CA,Lake County,0.267,6.343
+CA,Lake County,0.265,6.0
+CA,Lassen County,0.256,4.625
+CA,Lassen County,0.241,4.3
+CA,Los Angeles County,0.213,7.455
+CA,Los Angeles County,0.213,7.4
+CA,Madera County,0.297,6.762
+CA,Madera County,0.276,6.8
+CA,Marin County,0.154,8.673
+CA,Marin County,0.158,8.5
+CA,Mariposa County,0.238,7.567
+CA,Mariposa County,0.241,7.2
+CA,Mendocino County,0.248,7.246
+CA,Mendocino County,0.242,6.8
+CA,Merced County,0.313,6.315
+CA,Merced County,0.311,6.3
+CA,Modoc County,0.251,5.97
+CA,Modoc County,0.241,5.8
+CA,Mono County,0.208,7.496
+CA,Mono County,0.216,7.2
+CA,Monterey County,0.228,7.578
+CA,Monterey County,0.22,7.6
+CA,Napa County,0.236,8.405
+CA,Napa County,0.241,8.3
+CA,Nevada County,0.185,8.006
+CA,Nevada County,0.178,7.6
+CA,Orange County,0.204,8.539
+CA,Orange County,0.207,8.4
+CA,Placer County,0.228,8.446
+CA,Placer County,0.225,8.2
+CA,Plumas County,0.23,7.477
+CA,Plumas County,0.248,7.1
+CA,Riverside County,0.27,7.401
+CA,Riverside County,0.259,7.4
+CA,Sacramento County,0.277,7.343
+CA,Sacramento County,0.269,7.0
+CA,San Benito County,0.243,7.673
+CA,San Benito County,0.233,7.9
+CA,San Bernardino County,0.282,7.109
+CA,San Bernardino County,0.277,7.0
+CA,San Diego County,0.231,7.898
+CA,San Diego County,0.226,7.7
+CA,San Francisco County,0.16,7.719
+CA,San Francisco County,0.152,7.4
+CA,San Joaquin County,0.31,6.912
+CA,San Joaquin County,0.304,6.9
+CA,San Luis Obispo County,0.2,7.946
+CA,San Luis Obispo County,0.204,7.7
+CA,San Mateo County,0.2,8.679
+CA,San Mateo County,0.208,8.5
+CA,Santa Barbara County,0.192,8.073
+CA,Santa Barbara County,0.194,7.9
+CA,Santa Clara County,0.21,8.368
+CA,Santa Clara County,0.204,8.3
+CA,Santa Cruz County,0.201,7.643
+CA,Santa Cruz County,0.215,7.5
+CA,Shasta County,0.28,6.795
+CA,Shasta County,0.273,6.4
+CA,Sierra County,0.234,5.661
+CA,Sierra County,0.233,5.2
+CA,Siskiyou County,0.233,6.389
+CA,Siskiyou County,0.217,6.0
+CA,Solano County,0.271,7.639
+CA,Solano County,0.265,7.4
+CA,Sonoma County,0.225,8.083
+CA,Sonoma County,0.224,7.8
+CA,Stanislaus County,0.308,6.844
+CA,Stanislaus County,0.321,6.8
+CA,Sutter County,0.259,6.063
+CA,Sutter County,0.276,5.9
+CA,Tehama County,0.26,6.601
+CA,Tehama County,0.271,6.4
+CA,Trinity County,0.251,6.596
+CA,Trinity County,0.25,6.4
+CA,Tulare County,0.295,6.389
+CA,Tulare County,0.283,6.4
+CA,Tuolumne County,0.227,7.141
+CA,Tuolumne County,0.227,6.8
+CA,Ventura County,0.219,8.403
+CA,Ventura County,0.213,8.4
+CA,Yolo County,0.229,7.419
+CA,Yolo County,0.211,7.2
+CA,Yuba County,0.305,5.699
+CA,Yuba County,0.276,5.5
+NC,Alamance County,0.341,6.532
+NC,Alamance County,0.332,6.2
+NC,Alexander County,0.272,7.825
+NC,Alexander County,0.283,7.4
+NC,Alleghany County,0.247,7.561
+NC,Alleghany County,0.235,7.4
+NC,Anson County,0.346,6.229
+NC,Anson County,0.351,5.9
+NC,Ashe County,0.225,7.783
+NC,Ashe County,0.243,7.3
+NC,Avery County,0.289,7.841
+NC,Avery County,0.257,7.5
+NC,Beaufort County,0.343,6.836
+NC,Beaufort County,0.319,6.4
+NC,Bertie County,0.35,5.735
+NC,Bertie County,0.352,5.4
+NC,Bladen County,0.361,6.371
+NC,Bladen County,0.357,6.0
+NC,Brunswick County,0.295,7.479
+NC,Brunswick County,0.291,7.2
+NC,Buncombe County,0.236,7.325
+NC,Buncombe County,0.236,6.9
+NC,Burke County,0.288,6.437
+NC,Burke County,0.31,6.2
+NC,Cabarrus County,0.309,7.54
+NC,Cabarrus County,0.293,7.3
+NC,Caldwell County,0.295,6.115
+NC,Caldwell County,0.293,5.8
+NC,Camden County,0.302,8.597
+NC,Camden County,0.313,8.4
+NC,Carteret County,0.29,7.578
+NC,Carteret County,0.281,7.2
+NC,Caswell County,0.325,6.609
+NC,Caswell County,0.339,6.3
+NC,Catawba County,0.284,6.817
+NC,Catawba County,0.285,6.6
+NC,Chatham County,0.257,8.259
+NC,Chatham County,0.256,8.1
+NC,Cherokee County,0.275,8.068
+NC,Cherokee County,0.289,7.6
+NC,Chowan County,0.3,6.0
+NC,Chowan County,0.316,5.7
+NC,Clay County,0.258,7.951
+NC,Clay County,0.264,7.6
+NC,Cleveland County,0.302,6.708
+NC,Cleveland County,0.292,6.4
+NC,Columbus County,0.321,6.642
+NC,Columbus County,0.315,6.3
+NC,Craven County,0.319,6.798
+NC,Craven County,0.304,6.5
+NC,Cumberland County,0.338,5.799
+NC,Cumberland County,0.311,5.3
+NC,Currituck County,0.292,8.732
+NC,Currituck County,0.305,8.2
+NC,Dare County,0.281,7.113
+NC,Dare County,0.278,6.9
+NC,Davidson County,0.29,7.257
+NC,Davidson County,0.299,7.0
+NC,Davie County,0.281,8.219
+NC,Davie County,0.265,8.0
+NC,Duplin County,0.361,7.358
+NC,Duplin County,0.34,7.0
+NC,Durham County,0.294,6.597
+NC,Durham County,0.288,6.3
+NC,Edgecombe County,0.37,4.747
+NC,Edgecombe County,0.397,4.5
+NC,Forsyth County,0.26,6.316
+NC,Forsyth County,0.259,6.0
+NC,Franklin County,0.334,7.576
+NC,Franklin County,0.325,7.3
+NC,Gaston County,0.273,6.496
+NC,Gaston County,0.312,6.2
+NC,Gates County,0.328,7.839
+NC,Gates County,0.343,7.5
+NC,Graham County,0.295,7.265
+NC,Graham County,0.295,7.0
+NC,Granville County,0.302,7.519
+NC,Granville County,0.333,7.1
+NC,Greene County,0.318,7.223
+NC,Greene County,0.331,6.9
+NC,Guilford County,0.274,6.531
+NC,Guilford County,0.282,6.2
+NC,Halifax County,0.379,5.017
+NC,Halifax County,0.392,4.7
+NC,Harnett County,0.331,7.061
+NC,Harnett County,0.31,6.8
+NC,Haywood County,0.259,7.646
+NC,Haywood County,0.239,7.3
+NC,Henderson County,0.219,8.136
+NC,Henderson County,0.218,7.8
+NC,Hertford County,0.341,5.614
+NC,Hertford County,0.334,5.2
+NC,Hoke County,0.331,6.381
+NC,Hoke County,0.344,6.0
+NC,Hyde County,0.315,4.441
+NC,Hyde County,0.297,4.1
+NC,Iredell County,0.279,7.478
+NC,Iredell County,0.283,7.2
+NC,Jackson County,0.328,7.114
+NC,Jackson County,0.323,6.7
+NC,Johnston County,0.334,7.889
+NC,Johnston County,0.343,7.6
+NC,Jones County,0.341,7.462
+NC,Jones County,0.343,6.9
+NC,Lee County,0.292,6.448
+NC,Lee County,0.292,6.3
+NC,Lenoir County,0.342,6.104
+NC,Lenoir County,0.353,5.8
+NC,Lincoln County,0.279,7.593
+NC,Lincoln County,0.286,7.4
+NC,Macon County,0.245,7.754
+NC,Macon County,0.242,7.4
+NC,Madison County,0.3,7.852
+NC,Madison County,0.29,7.5
+NC,Martin County,0.339,6.579
+NC,Martin County,0.358,6.2
+NC,McDowell County,0.338,7.322
+NC,McDowell County,0.313,7.1
+NC,Mecklenburg County,0.255,6.743
+NC,Mecklenburg County,0.244,6.5
+NC,Mitchell County,0.291,7.736
+NC,Mitchell County,0.304,7.3
+NC,Montgomery County,0.313,7.132
+NC,Montgomery County,0.33,6.9
+NC,Moore County,0.285,7.597
+NC,Moore County,0.278,7.2
+NC,Nash County,0.333,6.446
+NC,Nash County,0.319,6.1
+NC,New Hanover County,0.255,6.846
+NC,New Hanover County,0.25,6.5
+NC,Northampton County,0.307,6.168
+NC,Northampton County,0.356,5.7
+NC,Onslow County,0.278,6.667
+NC,Onslow County,0.275,6.3
+NC,Orange County,0.208,6.924
+NC,Orange County,0.213,6.6
+NC,Pamlico County,0.302,7.899
+NC,Pamlico County,0.304,7.5
+NC,Pasquotank County,0.326,6.04
+NC,Pasquotank County,0.345,5.7
+NC,Pender County,0.292,7.376
+NC,Pender County,0.269,7.1
+NC,Perquimans County,0.319,7.447
+NC,Perquimans County,0.338,7.2
+NC,Person County,0.326,7.215
+NC,Person County,0.333,7.0
+NC,Pitt County,0.357,6.358
+NC,Pitt County,0.371,6.1
+NC,Polk County,0.23,8.622
+NC,Polk County,0.251,8.0
+NC,Randolph County,0.287,7.3
+NC,Randolph County,0.298,7.0
+NC,Richmond County,0.305,6.109
+NC,Richmond County,0.349,5.8
+NC,Robeson County,0.407,5.86
+NC,Robeson County,0.395,5.5
+NC,Rockingham County,0.324,6.374
+NC,Rockingham County,0.342,6.0
+NC,Rowan County,0.331,6.706
+NC,Rowan County,0.34,6.4
+NC,Rutherford County,0.3,6.223
+NC,Rutherford County,0.273,6.0
+NC,Sampson County,0.367,7.291
+NC,Sampson County,0.364,7.0
+NC,Scotland County,0.364,4.903
+NC,Scotland County,0.357,4.6
+NC,Stanly County,0.266,7.68
+NC,Stanly County,0.286,7.4
+NC,Stokes County,0.256,7.811
+NC,Stokes County,0.314,7.3
+NC,Surry County,0.307,7.612
+NC,Surry County,0.313,7.3
+NC,Swain County,0.339,7.238
+NC,Swain County,0.33,6.9
+NC,Transylvania County,0.237,8.075
+NC,Transylvania County,0.241,7.6
+NC,Tyrrell County,0.313,6.757
+NC,Tyrrell County,0.314,6.3
+NC,Union County,0.274,8.314
+NC,Union County,0.268,8.1
+NC,Vance County,0.33,5.403
+NC,Vance County,0.354,5.2
+NC,Wake County,0.248,7.742
+NC,Wake County,0.253,7.5
+NC,Warren County,0.348,5.685
+NC,Warren County,0.363,5.5
+NC,Washington County,0.33,5.238
+NC,Washington County,0.338,5.1
+NC,Watauga County,0.275,7.157
+NC,Watauga County,0.253,6.7
+NC,Wayne County,0.341,6.413
+NC,Wayne County,0.321,6.0
+NC,Wilkes County,0.293,7.068
+NC,Wilkes County,0.293,6.8
+NC,Wilson County,0.349,6.174
+NC,Wilson County,0.373,5.9
+NC,Yadkin County,0.297,8.296
+NC,Yadkin County,0.301,8.0
+NC,Yancey County,0.287,8.001
+NC,Yancey County,0.271,7.7
